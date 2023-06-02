@@ -1,0 +1,40 @@
+.video-section{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(5, 5, 80);
+    margin-top: 100px;
+}
+.video-section-fill{
+    width: 100%;
+    height: 100%;
+    opacity: 60%;
+}
+.video-bg-img{
+    width: 100%;
+    height: 400px;
+    position: relative;
+    /* background-color: gray; */
+    margin-top: -800px !important;
+    position: relative;
+}
+.video-bg-imgSecond{
+    width: 80%;
+    height: 400px;
+    margin-top: -800px !important;
+    position: relative;  
+    margin-left: 90px;
+
+  
+}
+.video-bg-fills{
+    width: 100%;
+    height: 100%;
+}
+.textV{
+    text-align: center;
+    color: white;
+    font-size: 3rem;
+    position: relative;
+    margin-top: -600px;
+    font-family: serif;
+}
