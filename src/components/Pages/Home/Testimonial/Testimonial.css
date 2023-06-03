@@ -1,0 +1,39 @@
+.carousel-img-box{
+    width: 80%;
+    height: 400px;
+    background-color: gray;
+}
+.carousel-img-fill{
+    width: 100%;
+    height: 100%;
+}
+.caro-bg-img{
+width: 50%;
+height: 100px;
+margin-left: -60px;
+margin-top: 50px;
+}
+.text-img{
+    width: 100px;
+    height: 80px;
+    margin-top: 100px;
+    /* background-color: gray; */
+}
+.text-img-fill{
+    width: 100%;
+    height: 100%;
+}
+.Caropara{
+    font-size: 1.4rem;
+    color: gray;
+    margin-top: 50px;
+}
+.name{
+    font-size: 4rem;
+    color:#1A0A1E;
+}
+.name-text{
+    font-size: 1.4rem;
+    color: #FFAE4A;
+    font-weight: bold;
+}

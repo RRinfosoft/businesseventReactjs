@@ -53,40 +53,7 @@
     margin-top: -900px;
     position: relative;
 }
-.Y-Box{
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
-    border: 4px solid #f9d464 ;
-    position: relative;
 
-}
-.Sk-Box{
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
-    border: 4px solid #00acee ;
-        position: relative;
-
-}
-
-.I-Box{
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
-    border: 4px solid #a221b9 ;
-        position: relative;
-
-}
-
-.P-Box{
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
-    border: 4px solid #fc097c;
-    position: relative;
-
-}
 
 
 

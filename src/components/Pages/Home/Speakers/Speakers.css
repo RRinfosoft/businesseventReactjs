@@ -1,9 +1,68 @@
-.Blue-bg{
+.Blue-bg {
     width: 100%;
     height: 100%;
     background-color: #1b0038;
 }
-.Blue-bg-fill{
+
+.Blue-bg-fill {
     width: 100%;
     height: 100%;
+}
+
+.speakertext {
+    text-align: center;
+    color: #FFAE4A;
+    font-size: 2rem;
+    margin-top: -900px;
+
+}
+
+.speakertext2 {
+    color: #FFAE4A;
+    font-size: 4rem;
+    font-family: serif;
+    text-align: center;
+
+}
+
+.speaker-item-title {
+    font-size: 2rem;
+    color: white;
+    font-family: serif;
+    font-weight: bold;
+}
+
+.speaker-item-title:hover {
+    color: #FFAE4A;
+}
+
+.speaker-item-subtitle {
+    color: white;
+    font-size: 15px;
+    font-family: serif;
+}
+
+.speaker-img-section {
+    width: 100%;
+    height: 80%;
+    background-color: #FFAE4A;
+}
+
+.speaker-img-section-fill {
+    width: 100%;
+    height: 100%;
+    opacity: 60%;
+}
+
+
+.speaker-img-section2 {
+    width: 100%;
+    height: 80%;
+    background-color:#fc097c;
+}
+
+.speaker-img-section-fill {
+    width: 100%;
+    height: 100%;
+    opacity: 60%;
 }

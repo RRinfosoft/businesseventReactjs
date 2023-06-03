@@ -1,0 +1,277 @@
+.EventSchdules-main-title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 2rem;
+    color: #FFAE4A;
+    margin-top: 100px;
+}
+
+.Event-Schdules-para {
+    text-align: center;
+    font-family: serif;
+    color: #1A0A1E;
+    font-size: 2.4rem;
+    font-weight: bold;
+}
+
+.Event-bg-img-box {
+    width: 50%;
+    height: 100px;
+    margin-top: -100px;
+    /* background-color: gray; */
+}
+
+.Event-bg-img-fill {
+    width: 100%;
+    height: 100%;
+}
+
+.Event-bg-img-box2 {
+    width: 100%;
+    height: 100px;
+    /* background-color: gray; */
+}
+
+.Event-bg-img-fill2 {
+    width: 100%;
+    height: 100%;
+}
+
+.background-color {
+    width: 80%;
+    height: 100%;
+    margin-top: 50px !important;
+    background-color: white;
+    box-shadow: -2px 3px 17px -4px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: -2px 3px 17px -4px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: -2px 3px 17px -4px rgba(0, 0, 0, 0.75);
+}
+.Event-hrc{
+    height: 50px !important;
+    width: 50%;
+    margin-top: 10px;
+    
+}
+.Enob{
+    font-size: 3rem;
+    font-weight: bold;
+    color: #fA8c00;
+    text-align: center;
+    margin-top: 40px;
+  
+    
+}
+.Aug{
+    font-size: 1.4rem;
+    font-weight: bold;
+    color: #1A0A1E;
+    font-family: serif;
+   
+}
+.Aug2{
+    font-size: 12px;
+    font-family: serif;
+    color: gray;
+    text-align: center;
+}
+.monthons{
+    font-size:15px !important;
+    color: #fA8c00 !important;
+    padding-top: 10px;
+}
+.Regis{
+    font-size: 2rem;
+    color: #1A0A1E;
+    font-weight: bold;
+}
+.weText{
+    font-size: 17px;
+    color: gray;
+    font-family: serif;
+   
+}
+.epic{
+    font-size: 17px;
+    color: gray;
+    font-family: serif;  
+
+}
+.mine{
+    font-size: 6rem;
+    font-weight: bold;
+    color: #fA8c00;
+}
+/* .bgs-imgs{
+    margin-top: -500px !important;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.section {
+    margin-top: 150px;
+
+}
+
+.triangle-down {
+    width: 0;
+    height: 0;
+    border-left: 12px solid transparent;
+    border-right: 12px solid transparent;
+    border-top: 13px solid #fA8c00;
+    margin-left: 130px;
+
+}
+
+.square {
+
+    height: 90px;
+    width: 100%;
+    background-color: #fA8c00 !important;
+    border: none !important;
+    /* box-sizing:inherit; */
+    /* border-left: 5px solid transparent; */
+    /* border-right: 5px solid transparent; */
+    /* border-top: 10px solid #fA8c00 ;  */
+}
+
+.second-card {
+    height: 90px;
+    width: 100%;
+    height: 90px;
+    background-color: #a221b9 !important;
+    border: none;
+
+
+}
+
+/* .second-card:hover{
+    background-color:#fA8c00 ;
+} */
+.third-card {
+    height: 90px;
+    width: 100%;
+    background-color: #00acee !important;
+    border: none;
+
+
+}
+
+.third-card:hover {
+    background-color: #fA8c00;
+}
+
+.fourth-card {
+
+    height: 90px;
+    width: 100%;
+    background-color: #FC097C !important;
+    border: none;
+
+
+}
+
+.set-img {
+    padding-left: 110px;
+    margin-top: 50px;
+}
+
+.para-text {
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.link-text {
+    text-decoration: none;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .section {
+        margin-top: 150px;
+        z-index: 1 !important;
+        /* margin: auto; */
+        margin-left: 50px;
+    }
+
+    .square {
+        border: none;
+        width: 100%;
+        height: 80px;
+        background-color: #fA8c00 !important;
+
+
+    }
+
+    .second-card {
+        border: none;
+        width: 100%;
+        height: 80px;
+        background-color: #a221b9 !important;
+        margin-top: 10px;
+
+
+
+    }
+
+    .second-card:hover {
+        background-color: #fA8c00;
+    }
+
+    .third-card {
+        border: none;
+        width: 100%;
+        height: 80px;
+        margin-top: 10px;
+        background-color: #00acee !important;
+
+
+
+    }
+
+    .third-card:hover {
+        background-color: #fA8c00;
+    }
+
+    .fourth-card {
+        border: none;
+        width: 100%;
+        height: 80px;
+        background-color: #FC097C !important;
+        margin-top: 10px;
+
+
+    }
+
+    .Event-bg-img-box2 {
+        display: none;
+    }
+
+    .Event-bg-img-fill {
+        display: none;
+    }
+
+    .Event-bg-img-box2 {
+        display: none;
+    }
+
+    .Event-bg-img-fill2 {
+        display: none;
+    }
+
+}

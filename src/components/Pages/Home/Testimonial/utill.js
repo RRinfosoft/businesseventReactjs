@@ -1,0 +1,8 @@
+export const testimonialImg="/images/testimonial-1.jpg"
+export const testimonialImg2="/images/testimonial-2.jpg"
+export const testimonialImg3="/images/testimonial-3.jpg"
+export const caroImgbg="/images/events8.png"
+export const ninepng="/images/events9.png"
+export const Caropara="We’re inviting the top creatives in the tech industry from all over the world to come learn, grow, scrape their knees, try new things, to be vulnerable, epic adventures"
+export const name="August Myth"
+export const name2=" Students"

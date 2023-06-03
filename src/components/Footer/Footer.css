@@ -1,0 +1,12 @@
+.footer{
+    width: 100%;
+    height: 100%;
+    background-color: #250449;
+    margin-top: 50px;
+}
+.footerMinHead1{
+    font-size: 2rem;
+    color: white;
+    margin-top: 30px;
+    font-family: serif;
+}
