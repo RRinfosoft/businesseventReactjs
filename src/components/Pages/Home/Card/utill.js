@@ -1,0 +1,7 @@
+export const cardImg="/images/card-1.jpeg"
+export const cardImg2="/images/card-2.jpeg"
+export const cardImg3="/images/card-3.jpeg"
+export const cardImg4="/images/card-4.jpeg"
+export const cardImg5="/images/card-4.jpeg"
+export const cardImg6="/images/card-11.jpeg"
+export const cardImg7="/images/card-12.jpeg"

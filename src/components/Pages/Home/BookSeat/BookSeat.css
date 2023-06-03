@@ -1,0 +1,101 @@
+.book-img {
+    width: 100%;
+    height: 100%;
+    opacity: 100%;
+}
+
+.book-img-fill {
+    width: 100%;
+    height: 100%; background-color: rgb(1, 1, 37);
+    
+}
+.Violate-Card-fill{
+    width: 100%;
+    height: 100%;
+}
+
+
+.Violate-Card{
+    width: 100%;
+    height: 200px;
+    background-color: #A221B9;
+    box-shadow: -2px 3px 17px -4px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: -2px 3px 17px -4px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: -2px 3px 17px -4px rgba(0, 0, 0, 0.75);
+}
+.Violate-Card-white{
+    width: 100%;
+    height: 400px;
+    background-color: white;
+    margin-top: 20px;
+    box-shadow: -2px 3px 17px -4px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: -2px 3px 17px -4px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: -2px 3px 17px -4px rgba(0, 0, 0, 0.75);
+}
+.Pink-Card{
+    width: 100%;
+    height: 200px;
+    background-color: #FC097c;
+    box-shadow: -2px 3px 17px -4px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: -2px 3px 17px -4px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: -2px 3px 17px -4px rgba(0, 0, 0, 0.75);
+}
+.Pink-Card-white{
+    width: 100%;
+    height: 400px;
+    background-color: white;
+    margin-top: 20px;
+    box-shadow: -2px 3px 17px -4px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: -2px 3px 17px -4px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: -2px 3px 17px -4px rgba(0, 0, 0, 0.75);   
+}
+.Yellow-Card{
+    width: 100%;
+    height: 200px;
+    background-color: #FFAE4A;
+    box-shadow: -2px 3px 17px -4px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: -2px 3px 17px -4px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: -2px 3px 17px -4px rgba(0, 0, 0, 0.75);
+}
+.Yellow-Card-white{
+    width: 100%;
+    height: 400px;
+    background-color: white;
+    margin-top: 20px;
+    box-shadow: -2px 3px 17px -4px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: -2px 3px 17px -4px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: -2px 3px 17px -4px rgba(0, 0, 0, 0.75);   
+}
+.back1{
+    font-size: 1.4rem;
+    font-family: serif;
+    color: gray;
+    text-align: center;
+}
+.white-padding{
+padding: 100px 0;
+}
+.book-btn{
+    width: 150px;
+    height: 50px;
+    background-color: #A221B9;
+    color: white;
+    font-weight: bold;
+    border: none;
+}
+.book-btn-pink{
+    width: 150px;
+    height: 50px;
+    background-color: #FC097c;
+    color: white;
+    font-weight: bold;
+    border: none;
+}
+.book-btn-yellow{
+    width: 150px;
+    height: 50px;
+    background-color: #FFAE4A;
+    color: white;
+    border: none;
+    font-weight: bold;
+}
