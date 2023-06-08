@@ -1,0 +1,71 @@
+.Timer-bg-img{
+    width: 100%;
+    margin-top: 50px;
+    height: 50vh;
+}
+.Timer-bg-itm-fill{
+    width: 100%;
+    height: 100%; 
+}
+.disply{
+    display: flex;
+    margin-top: -200px;
+    justify-content: space-evenly;
+}
+.disply2{
+    display: flex;
+    margin-top: -10px;
+    padding-left: 50px;
+    color: white;
+    justify-content: space-evenly;
+}
+.days-text1{
+    font-size: 4rem;
+    text-align: end !important;
+    font-weight: bold;
+    color: #a221b9;
+    padding-left: 40px;
+}
+.days-text2{
+    font-size: 4rem;
+    text-align: end !important;
+    font-weight: bold;
+    color: #FFAE4A;
+    /* padding-left: 50px; */
+}
+.days-text3{
+    font-size: 4rem;
+    text-align: end !important;
+    font-weight: bold;
+    color: #00acee;
+    /* padding-left: 50px; */
+}
+.days-text4{
+    font-size: 4rem;
+    text-align: end !important;
+    font-weight: bold;
+    color: #fc097c;
+    /* padding-left: 50px; */
+}
+.simple-text-timer{
+    font-size: 1.2rem;
+    font-family: serif;
+
+}
+.book-timer-table{
+    font-size: 2.6rem;
+    font-family: serif;
+    font-weight: bold;
+    margin-top: -200px;
+    color: white;
+}
+.ticket-btn{
+    width: 200px;
+    height: 50px;
+    background-color: #df810e;
+    border: none;
+    color: white;
+}
+.ticket-btn:hover{
+    background-color: #fc097c;
+}

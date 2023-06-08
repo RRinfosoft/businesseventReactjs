@@ -1,0 +1,6 @@
+export const AboutContainerImg="/images/about-img/about-bg-2.jpg"
+export const title="About"
+export const subtitle="Home / About Event"
+export const An="An Event For"
+export const get="Get curious. Be inspired. Create your future."
+export const text="We’re inviting the top creatives in the tech industry from all over the world to come learn, grow, scrape their knees, try new things, to be vulnerable, and to have epic adventures"

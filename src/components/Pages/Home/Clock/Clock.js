@@ -10,25 +10,19 @@ const Clock = () => {
  
  
     let interval;
- 
     const countDown = () =>{
- 
         const destination = new Date( 'June 1, 2023 ').getTime()
- 
         interval = setInterval(()=>{
  
              const now = new Date().getTime()
              const different = destination - now
              const days = Math.floor( different / (1000 * 60 * 60 *24))
  
- 
              const hours = Math.floor( different % (1000 * 60 * 60 *24) /
              (1000*60*60 ))
  
- 
              const minutes = Math.floor(different % (1000 * 60 * 60 ) /
              (1000*60 )) 
- 
  
              const seconds = Math.floor(different % (1000 * 60 ) / 1000 ) 
  
@@ -38,12 +32,9 @@ const Clock = () => {
                  setHours(hours)
                  setMinutes(minutes)
                  setSeconds(seconds)
-             }
-             
+             } 
         });
     };
- 
- 
     useEffect(()=>{
      countDown()
     })

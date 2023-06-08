@@ -12,25 +12,21 @@ const navitem=[
         menu:"About",
         path:"/about"
     },
-    {
-        menu:"Speakers",
-        path:"/speakers"
-    },
-    
+
     {
         menu:"Events",
-        path:"/blog"
+        path:"/events"
     },
 
 
-    {
-        menu:"Blog",
-        path:"/blog"
-    },
+    // {
+    //     menu:"Blog",
+    //     path:"/blog"
+    // },
 
     {
         menu:"Contacts",
-        path:"/contacts"
+        path:"/contact"
     },
   
    
