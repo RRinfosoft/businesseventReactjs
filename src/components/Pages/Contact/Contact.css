@@ -1,0 +1,98 @@
+.contact-img {
+    width: 100%;
+    height: 70vh;
+    /* background-color:#a221b9 ; */
+    background: linear-gradient(90deg, rgba(17, 17, 139, 1) 44%, #da00ff 80%);
+}
+
+.contact-img2 {
+    width: 100%;
+    height: 100%;
+    opacity: 50%;
+}
+
+.contact-first-text {
+    font-size: 2rem;
+    color: black;
+    font-weight: bold;
+    margin-top: -300px;
+    position: relative;
+    text-align: end !important;
+    margin-right: 300px !important;
+
+}
+
+.contact-second-text {
+    font-size: 1.2rem;
+    color: #f9d464;
+    font-weight: bold;
+    margin-top: -20px;
+    position: relative;
+    text-align: end !important;
+    margin-right: 300px !important;
+}
+.section{
+    margin-top: 100px;
+}
+.con-get{
+    color: #d19f09;
+    font-weight: bold;
+    font-family: serif;
+    font-size: 2rem;
+}
+.contact-get{
+    font-size: 4rem;
+    color: black;
+    font-weight: bold;
+    font-family: serif;
+
+}
+.icon-color{
+    font-size: 3rem;
+    color: #fc097c;
+    
+}
+.icon-color2{
+    font-size: 3rem;
+    color: #d19f09;
+    
+}
+.icon-color3{
+    font-size: 3rem;
+    color: #00acee;
+    
+}
+.our1{
+    color: black;
+    font-size: 2rem !important;
+    font-family: serif;
+    font-weight: bold;
+    padding-left: 4rem;
+    margin-top: -50px;
+
+}
+.conText1{
+    padding-left: 4rem;
+    color: gray;
+    font-family: serif;  
+}
+.contact-bg-color{
+    width: 100%;
+    height: 500px;
+    background-color: #F9FCFA;
+    margin-top: 50px
+}
+.send{
+    font-size: 4rem;
+    font-family: serif;
+    text-align: center;
+    padding-top: 30px;
+    font-weight: bold;
+}
+.stu_btn{
+    width: 200px;
+    height: 50px;
+    background-color: #d19f09;
+    color: white;
+    border: none;
+}

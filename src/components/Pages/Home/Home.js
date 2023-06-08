@@ -23,15 +23,12 @@ const Home = () => {
       </div>
       <Container>
         <Row >
-
           <p className='HomeText'>{HomeText}</p>
           <p className='HomeText2'>{HomeText2}</p>
-          <br />    <br />    <br />    <br />
-          
-
         </Row>
+     
       </Container>
-      <br />
+      <div style={{marginTop:"100px"}}></div>
       <Clock />
       <SubHome />
       <Sponsors />
